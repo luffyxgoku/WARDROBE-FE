@@ -1,0 +1,14 @@
+.logo-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo-container img {
+    display: inline-block;
+    margin-right: 50px; 
+  }
+  
+  .logo-container .company-name {
+    margin-top: 10px;
+    display: inline-block;
+  }
